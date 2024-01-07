@@ -1,0 +1,17 @@
+C:\Users\donge\source\repos\ConsoleApp_Weather\ConsoleApp_Weather\bin\Debug\net6.0\ConsoleApp_Weather.exe
+C:\Users\donge\source\repos\ConsoleApp_Weather\ConsoleApp_Weather\bin\Debug\net6.0\ConsoleApp_Weather.deps.json
+C:\Users\donge\source\repos\ConsoleApp_Weather\ConsoleApp_Weather\bin\Debug\net6.0\ConsoleApp_Weather.runtimeconfig.json
+C:\Users\donge\source\repos\ConsoleApp_Weather\ConsoleApp_Weather\bin\Debug\net6.0\ConsoleApp_Weather.dll
+C:\Users\donge\source\repos\ConsoleApp_Weather\ConsoleApp_Weather\bin\Debug\net6.0\ConsoleApp_Weather.pdb
+C:\Users\donge\source\repos\ConsoleApp_Weather\ConsoleApp_Weather\obj\Debug\net6.0\ConsoleApp_Weather.csproj.AssemblyReference.cache
+C:\Users\donge\source\repos\ConsoleApp_Weather\ConsoleApp_Weather\obj\Debug\net6.0\ConsoleApp_Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donge\source\repos\ConsoleApp_Weather\ConsoleApp_Weather\obj\Debug\net6.0\ConsoleApp_Weather.AssemblyInfoInputs.cache
+C:\Users\donge\source\repos\ConsoleApp_Weather\ConsoleApp_Weather\obj\Debug\net6.0\ConsoleApp_Weather.AssemblyInfo.cs
+C:\Users\donge\source\repos\ConsoleApp_Weather\ConsoleApp_Weather\obj\Debug\net6.0\ConsoleApp_Weather.csproj.CoreCompileInputs.cache
+C:\Users\donge\source\repos\ConsoleApp_Weather\ConsoleApp_Weather\obj\Debug\net6.0\ConsoleApp_Weather.dll
+C:\Users\donge\source\repos\ConsoleApp_Weather\ConsoleApp_Weather\obj\Debug\net6.0\refint\ConsoleApp_Weather.dll
+C:\Users\donge\source\repos\ConsoleApp_Weather\ConsoleApp_Weather\obj\Debug\net6.0\ConsoleApp_Weather.pdb
+C:\Users\donge\source\repos\ConsoleApp_Weather\ConsoleApp_Weather\obj\Debug\net6.0\ConsoleApp_Weather.genruntimeconfig.cache
+C:\Users\donge\source\repos\ConsoleApp_Weather\ConsoleApp_Weather\obj\Debug\net6.0\ref\ConsoleApp_Weather.dll
+C:\Users\donge\source\repos\ConsoleApp_Weather\ConsoleApp_Weather\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\donge\source\repos\ConsoleApp_Weather\ConsoleApp_Weather\obj\Debug\net6.0\ConsoleApp_Weather.csproj.CopyComplete
